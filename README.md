@@ -50,6 +50,9 @@ This program includes the following sections, each with a specific aim:
 
     3. Graphic Representation:
        Boxplots with overlaid points showing the distribution of kill ratings for each category of bug. Again, please consider your              dataframe when specifying names to display with your plot.
+       
+    4. Testing:
+       A test to see the assigned default values of PV1, PV2, and OV. These will only be printed if the program is run as the main module. 
 
 ### Source Information
 
