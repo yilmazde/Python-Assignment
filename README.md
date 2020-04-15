@@ -46,10 +46,10 @@ This program includes the following sections, each with a specific aim:
         ◦ Standard Deviation
 
     2. Lineer Model Results:
-       The results of a linear model with kill rating as the outcome variable and the categories of bug as the predictor variables.
+       The results of a linear model with kill rating as the outcome variable and the categories of bug as the predictor variables. Please        note that the linear equation needs to be specified by using appropriate variable names, depending on the dataframe in use.
 
     3. Graphic Representation:
-       Boxplots with overlaid points showing the distribution of kill ratings for each category of bug. 
+       Boxplots with overlaid points showing the distribution of kill ratings for each category of bug. Again, please consider your              dataframe when specifying names to display with your plot.
 
 ### Source Information
 
