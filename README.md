@@ -8,7 +8,7 @@ Author: Deniz Yilmaz*
 ### Project Description
 
 This program is written to analyse a given data with 2 categorical predictor variables and a continuous outcome variable. Although I used the data obtained from the "Bugs" experiment (data provided under "The Bugs Experiment" section), other data can also be analysed using this program. In order to do so, it is sufficient to follow the specified guidelines in the program. Namely, you need to access that specific data and assign variable names that represent variables of the data in use. Specifics of the program is explained under "In This Program" section below.
-I used Jupyter Notebook to write the program and the file is therefore an .ipynd file. If you choose only to view the project you can do so by clicking on the .ipynd file. If you wish to use the program interactively you may download the file and open it on Jupyter Notebook and modify the code as you like.
+I used Jupyter Notebook to write the program and the file is therefore an .ipynd file. If you choose only to view the project you can do so by clicking on the Bugs-Data-Analysis.ipynd file. If you wish to use the program interactively you may download the file and open it on Jupyter Notebook and modify the code as you like.
 
 ### The Bugs Experiment
 
