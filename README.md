@@ -27,6 +27,7 @@ https://doi.org/10.1016/j.chb.2013.01.024
 
 **Obtain a csv file of the data from the experiment**:
 https://raw.githubusercontent.com/luketudge/stats-tutorials/master/tutorials/data/bugs.csv 
+Alternatively, you can reach the .csv file from this repository. It is visible in the master branch under the file named "bugs.csv".
 
 ### In This Program
 
